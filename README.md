@@ -8,9 +8,10 @@ Hi! I'm a DAW student with a strong passion for programming and cybersecurity. I
 - **Cybersecurity Enthusiast** (Interested but not learning yet...)  
 
 ## 📚 Currently Learning  
-- Advanced Java  
-- MySQL  
-- XML  
+- Java  
+- MySQL
+- PHP
+- JavaScript
 
 ## 📫 Contact  
 - **GitHub:** [EternalShadow00](https://github.com/EternalShadow00)  
